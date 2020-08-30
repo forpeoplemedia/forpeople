@@ -1,0 +1,56 @@
+/* == Google Font Import / Font Import Me == */
+
+/* == END Google Font Import / Font Import Me == */
+/* == Data Tidak Masuk Kategori/Campuran == */
+
+/* == Data Tidak Masuk Kategori/Campuran == */
+/* == Index Data == */
+    /* - Navbar 1 - */
+        .nav1 .score ul li a{
+            color: #000;
+            font-size: 13px;
+        }
+        .nav1 .score ul li a i{
+            color: #000;
+            font-size: 20px;
+        }
+        .nav1 .log{
+            margin-right: 80px;
+        }
+        .nav1 .log li a img{
+            width: 200px;
+            height: 50px;
+        }
+        .nav1 .follow ul li a{
+            border: none;
+            background: #fa5b3f;
+            color: white;
+            font-weight: bold;
+            font-size: 13px;
+        }
+        .nav1 .follow ul li a i{
+            font-size: 15px;
+            padding-right: 15px;
+        }
+    /* - END Navbar 1 - */
+    /* - Navbar 2 - */
+        .nav2 .navbar-collapse{
+            margin-left: 150px;
+        }
+        .nav2 .navbar-collapse ul li{
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+    /* - END Navbar 2 - */
+    /* - Hot News - */
+        .swiper-wrapper .publisher{
+            list-style: none;
+            line-height: 1.6;
+            font-size: .9em;
+            color: rgb(138, 138, 138);
+        }
+        .swiper-wrapper .publisher .r{
+            text-align: right;
+        }
+    /* - END Hot News - */
+/* == Index Data == */
